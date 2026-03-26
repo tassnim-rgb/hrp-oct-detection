@@ -1,7 +1,7 @@
 # Automatic Detection of Hyperreflective Points in OCT Images
 
 **Internship project — OMD SIRIUS LAM**  
-BELAGHIT Tassnim Alla · NHSM × SiriusNET · Dec 2025 – Jan 2026
+BELAGHIT Tassnim Alla · Dec 2025 – Jan 2026
 
 ---
 
@@ -57,7 +57,7 @@ motivating a fully automated approach.
 
 ## Dataset
 
-Data was collected under the **OMD SIRIUS LAM** clinical study using a
+Data was collected under a clinical study using a
 Spectralis SD-OCT system. Annotations are in Pascal VOC XML format.
 
 | Split | Images |
@@ -66,7 +66,7 @@ Spectralis SD-OCT system. Annotations are in Pascal VOC XML format.
 | Val | 251 |
 | Test | 46 |
 
-> ⚠️ The dataset contains medical imaging data and is **not included**
+>  The dataset contains medical imaging data and is **not included**
 > in this repository.
 
 ---
