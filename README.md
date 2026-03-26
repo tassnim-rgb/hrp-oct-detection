@@ -108,7 +108,3 @@ Then call `predict_dots(model, pil_image)` — see the notebook for the full
 inference and TTA pipeline.
 
 ---
-
-## Supervisor
-
-**Amine Fellahi** — SiriusNET
