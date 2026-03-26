@@ -1,9 +1,5 @@
 # Automatic Detection of Hyperreflective Points in OCT Images
-
-**Internship project — OMD SIRIUS LAM**  
 BELAGHIT Tassnim Alla · Dec 2025 – Jan 2026
-
----
 
 ## Overview
 
